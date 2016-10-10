@@ -18,7 +18,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author DANIEL
+ * @author DANIEL.-..
  */
 public class Statistic extends JFrame{
     private double[] value;
